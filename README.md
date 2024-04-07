@@ -26,7 +26,7 @@ Getting Started
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/initiate-works-website.git
+git clone https://github.com/Gauriii11/initiativeworks.git
 Import the MySQL database:
 
 Navigate to the backend directory and locate the initiate_works.sql file.
@@ -37,7 +37,7 @@ Navigate to the backend directory and open the config.php file.
 Update the database connection details (hostname, username, password, database name) to match your MySQL setup.
 Start your local server environment (e.g., Apache, PHP, MySQL).
 
-Open your web browser and navigate to http://localhost/initiate-works-website to view the website.
+Open your web browser and navigate to http://localhost/initiativeworks to view the website.
 
 Contribution Guidelines
 We welcome contributions from the community to enhance and improve this project. If you'd like to contribute, please follow these steps:
