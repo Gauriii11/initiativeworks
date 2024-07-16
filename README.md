@@ -1,5 +1,7 @@
 initiative works Website
 Welcome to the Initiate Works website repository! This project is designed to showcase both frontend and backend development skills using HTML, CSS, jQuery for frontend, and PHP with MySQL for the backend.
+You can checkout the website here: 
+https://initiativeworks.000webhostapp.com/myfile/index.php
 
 Overview
 Initiate Works is a fictitious company specializing in providing innovative solutions in both frontend and backend development. This website serves as a platform to demonstrate our expertise, services offered, and past projects.
